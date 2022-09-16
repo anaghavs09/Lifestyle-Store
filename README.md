@@ -1,2 +1,3 @@
 # LifestyleStore
-The Web Development Training by Internshala
+Web Development project 
+Internshala
